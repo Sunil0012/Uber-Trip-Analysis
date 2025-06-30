@@ -2,3 +2,4 @@ streamlit
 geopy
 openrouteservice
 folium
+streamlit_folium
